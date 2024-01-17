@@ -1,2 +1,2 @@
 # to-do
-a simple to do list app
+a very simple to do list app 🌱
